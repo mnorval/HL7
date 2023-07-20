@@ -1,0 +1,12 @@
+C:\DOCUMENTS\PROGRAMMING & ELECTRONICS\C++  C#   C\C#\Code\HL7\HL7\bin\Debug\HL7.exe
+C:\DOCUMENTS\PROGRAMMING & ELECTRONICS\C++  C#   C\C#\Code\HL7\HL7\bin\Debug\HL7.pdb
+C:\DOCUMENTS\PROGRAMMING & ELECTRONICS\C++  C#   C\C#\Code\HL7\HL7\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\DOCUMENTS\PROGRAMMING & ELECTRONICS\C++  C#   C\C#\Code\HL7\HL7\obj\x86\Debug\HL7.Main.resources
+C:\DOCUMENTS\PROGRAMMING & ELECTRONICS\C++  C#   C\C#\Code\HL7\HL7\obj\x86\Debug\HL7.Properties.Resources.resources
+C:\DOCUMENTS\PROGRAMMING & ELECTRONICS\C++  C#   C\C#\Code\HL7\HL7\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\DOCUMENTS\PROGRAMMING & ELECTRONICS\C++  C#   C\C#\Code\HL7\HL7\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\DOCUMENTS\PROGRAMMING & ELECTRONICS\C++  C#   C\C#\Code\HL7\HL7\obj\x86\Debug\HL7.exe
+C:\DOCUMENTS\PROGRAMMING & ELECTRONICS\C++  C#   C\C#\Code\HL7\HL7\obj\x86\Debug\HL7.pdb
+C:\DOCUMENTS\PROGRAMMING & ELECTRONICS\C++  C#   C\C#\Code\HL7\HL7\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\DOCUMENTS\PROGRAMMING & ELECTRONICS\C++  C#   C\C#\Code\HL7\HL7\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\DOCUMENTS\PROGRAMMING & ELECTRONICS\C++  C#   C\C#\Code\HL7\HL7\bin\Debug\HL7.exe.config
